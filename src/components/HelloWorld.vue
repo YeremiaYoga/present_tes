@@ -31,7 +31,7 @@
           <img style="width: 100px; padding: 10px;" v-if="circle2 == 1" src="../assets/circ-full-putih-border.png" @click="circle2met" />
           <img style="width: 100px; padding: 10px;" v-if="circle2 == 2" src="../assets/circ-14-kuning.png" @click="circle2met" />
           <img style="width: 100px; padding: 10px;" v-if="circle2 == 3" src="../assets/circ-half-hijau.png" @click="circle2met" />
-          <img style="width: 100px; transform: rotate(-90deg)" v-if="circle2 == 4" src="../assets/circ-34-merah.png" @click="circle2met" />
+          <img style="width: 100px; padding: 10px; transform: rotate(-90deg)" v-if="circle2 == 4" src="../assets/circ-34-merah.png" @click="circle2met" />
           <img style="width: 100px; padding: 10px;" v-if="circle2 == 5" src="../assets/circ-full-biru.png" @click="circle2met" />
           <img style="width: 100px; padding: 10px;" v-if="circle2 == 6" src="../assets/circ-full-biru-bintang.png" @click="circle2met" />
           <img style="width: 100px; padding: 10px;" v-if="circle2 == 7" src="../assets/circ-full-hitam.png" @click="circle2met" />
