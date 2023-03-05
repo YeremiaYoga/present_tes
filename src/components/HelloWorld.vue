@@ -248,6 +248,11 @@ export default {
   justify-content: center;
 
 }
+button{
+  padding: 0;
+  border: none;
+  background: none;
+}
 
 .cicle {
   width: 100px;
